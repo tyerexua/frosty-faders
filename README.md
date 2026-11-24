@@ -4,8 +4,6 @@
 
 A holiday-themed LUNA Add On. LUNA's Timeline, Mixer, MIDI Editor, Browser and Focus Channel, rebuilt for the season: a different ornament on every fader cap (stars, baubles, gifts, gingerbread men and snowmen), glass-bauble pan knobs, jingle-bell sends, icy thermometer meters, string lights that chase in tempo, and a sleigh across the sky when you press play.
 
-Every fader, knob and button works on your open session.
-
 ![Frosty Faders timeline](images/timeline-0.1.0.png)
 
 ![Frosty Faders mixer](images/mixer-0.1.0.png)
