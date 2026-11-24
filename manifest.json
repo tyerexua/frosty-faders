@@ -1,0 +1,21 @@
+{
+    "package_name": "Frosty Faders",
+    "id": "com.tyerex.frosty-faders",
+    "title": "Frosty Faders",
+    "version": "0.1.0",
+    "manufacturer": "Tyson Yerex",
+    "description": "LUNA's Timeline, Mixer, MIDI editor, Browser and Focus Channel, rebuilt for the holidays: a different ornament on every fader cap, glass-bauble pan knobs, jingle-bell sends, icy thermometer meters, string lights that chase in tempo and a sleigh across the sky when you press play.",
+    "sdk_version": "3.1.2",
+    "min_luna_version": "3.1.2",
+    "categories": [
+        "Mixing & Mastering",
+        "Editing",
+        "Control"
+    ],
+    "engines": [
+        "luna"
+    ],
+    "html": "index.html",
+    "icon": "icon.png",
+    "target": "app"
+}
