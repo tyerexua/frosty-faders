@@ -1,14 +1,14 @@
 # Frosty Faders
 
-![Frosty Faders](images/splash.png)
+![Frosty Faders](images/splash-0.1.0.png)
 
 A holiday-themed LUNA Add On. LUNA's Timeline, Mixer, MIDI Editor, Browser and Focus Channel, rebuilt for the season: snowman fader caps, glass-bauble pan knobs, jingle-bell sends, icy thermometer meters, string lights that chase in tempo, and a sleigh across the sky when you press play.
 
 It isn't a skin over a screenshot. Every control edits the session you have open.
 
-![Frosty Faders timeline](images/timeline.png)
+![Frosty Faders timeline](images/timeline-0.1.0.png)
 
-![Frosty Faders mixer](images/mixer.png)
+![Frosty Faders mixer](images/mixer-0.1.0.png)
 
 ## Requirements
 
