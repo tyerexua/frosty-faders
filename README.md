@@ -6,6 +6,8 @@ A holiday-themed LUNA Add On. LUNA's Timeline, Mixer, MIDI Editor, Browser and F
 
 It isn't a skin over a screenshot. Every control edits the session you have open.
 
+![Frosty Faders timeline](images/timeline.png)
+
 ![Frosty Faders mixer](images/mixer.png)
 
 ## Requirements
